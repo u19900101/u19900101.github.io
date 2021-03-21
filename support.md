@@ -6,7 +6,7 @@ title: 支持我
 
 ![](/images/payimg/alipayimg.jpg)
 
-![](/images/payimg/wechatpay.jpg)
+![](/images/payimg/wepayimg.jpg)
 
 <h3> 如何联系到我 </h3>
 
