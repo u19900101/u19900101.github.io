@@ -1,0 +1,13 @@
+I"�<h2 id="java处理-形如123123字符串为数组">java处理 形如“[[1,2,3],[1,2,3]]”字符串为数组</h2>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">Gson</span> <span class="n">gson</span> <span class="o">=</span> <span class="k">new</span> <span class="nc">Gson</span><span class="o">();</span>
+<span class="nc">String</span> <span class="n">str</span>  <span class="o">=</span> <span class="s">"[[1,3,5, 4],[1,3,5, 4]]"</span><span class="o">;</span>
+<span class="nc">List</span> <span class="n">persons</span> <span class="o">=</span> <span class="n">gson</span><span class="o">.</span><span class="na">fromJson</span><span class="o">(</span><span class="n">str</span><span class="o">,</span> <span class="k">new</span> <span class="nc">TypeToken</span><span class="o">&lt;</span><span class="nc">List</span><span class="o">&lt;</span><span class="nc">List</span><span class="o">&lt;</span><span class="nc">Integer</span><span class="o">&gt;&gt;&gt;(){}.</span><span class="na">getType</span><span class="o">());</span>
+<span class="nc">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="n">persons</span><span class="o">);</span>
+</code></pre></div></div>
+
+<p>将  <strong>TypeToken</strong>&lt;T&gt;中的类型与需要解码的字符串一一对应即可</p>
+
+<h2 id="测试一下标题">测试一下标题</h2>
+
+:ET
