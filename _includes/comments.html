@@ -21,16 +21,16 @@
     </div>
     <!-- City版安装代码已完成 -->
 
-  <!--{% elsif site.comment.disqus %}
+  {% elsif site.comment.disqus %}
     <div id="disqus_thread"></div>
     <script>
-    
+
     var disqus_config = function () {
         this.page.url = "{{ page.url | prepend: site.baseurl | prepend: site.url }}";
         this.page.identifier = "{{ page.url }}";
     };
     var disqus_shortname = '{{ site.comment.disqus }}';
-    
+
     (function() { // DON'T EDIT BELOW THIS LINE
         var d = document, s = d.createElement('script');
         s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
@@ -39,7 +39,7 @@
         })();
     </script>
     <noscript>要查看<a href="http://disqus.com/?ref_noscript"> Disqus </a>评论，请启用 JavaScript</noscript>
-    
-  {% endif %}-->
+
+  {% endif %}
 
 </section>
