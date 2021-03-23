@@ -1,7 +1,7 @@
 # Basic
 title: 仗剑走天涯
 subtitle: 个人站
-description: 成为你自己,gogo
+description: 苟若恒，何必三更起五更眠，最无益,莫过一日暴十日寒
 # 头像里面的标题
 avatarTitle: lppppp
 # 头像里面的描述
@@ -41,7 +41,7 @@ nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
     - {title: 技术支持, description: support, url: '/support'}      
-    - {title: 关于我, description: about, url: '/about'}   
+    - {title: 关于我, description: about, url: ''}
     
 
 # Pagination
