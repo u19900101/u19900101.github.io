@@ -9,7 +9,9 @@ tags: gitub，jekyll
 
 # 安装 jekyll
 
-- window需要先安装`rubyinstaller`此处为[官网](https://rubyinstaller.org/downloads/)，但下载很慢，这里是我已经下载好的[百度网盘](https://pan.baidu.com/s/1V950shxdBMJwM5EBElYfsw )
+- window需要先安装`rubyinstaller`此处为[官网](https://rubyinstaller.org/downloads/)，但下载很慢，这里是我已经下载好的[百度网盘](链接：https://pan.baidu.com/s/1Jkqyl7EZvN-QtsaKDL2c2Q 
+  提取码：6666 
+  复制这段内容后打开百度网盘手机App，操作更方便哦--来自百度网盘超级会员V2的分享 )
 
 - 将镜像改为国内的，不然非常卡顿
 
