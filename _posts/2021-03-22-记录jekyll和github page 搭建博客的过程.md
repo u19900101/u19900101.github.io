@@ -14,7 +14,7 @@ tags: gitub，jekyll
   复制这段内容后打开百度网盘手机App，操作更方便哦--来自百度网盘超级会员V2的分享 )
 ## 1.rubyinstaller
 
-- window需要先安装`rubyinstaller`此处为[官网](https://rubyinstaller.org/downloads/)，但下载很慢，这里是我已经下载好的[百度网盘](https://pan.baidu.com/s/1V950shxdBMJwM5EBElYfsw )
+- window需要先安装`rubyinstaller`此处为[官网](https://rubyinstaller.org/downloads/)，但下载很慢，这里是我已经下载好的[百度网盘](https://pan.baidu.com/s/1V950shxdBMJwM5EBElYfsw ) 提取码 8888
 - 选择安装3
 
 ## 2.打开cmd将镜像改为国内的，不然非常卡顿
