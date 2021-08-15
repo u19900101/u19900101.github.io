@@ -9,12 +9,16 @@ tags: ELK
 
 初略了解了ELK的技术栈
 
+[本课程来源](https://www.bilibili.com/video/BV1iJ411c7Az?p=65)
+
+后来发现 远没有 [尚硅谷的雷峰阳](https://www.bilibili.com/video/BV1np4y1C7Yf?p=102) 讲的好 
+
 # Elastic Stack简介
 
 如果你没有听说过Elastic Stack，那你一定听说过ELK，实际上ELK是三款软件的简称，分别是Elasticsearch、
 Logstash、Kibana组成，在发展的过程中，又有新成员Beats的加入，所以就形成了Elastic Stack。所以说，ELK是旧的称呼，Elastic Stack是新的名字。
 
-![image-20200922092403279](../blogimg/elsearch/image-20200922092403279.png)
+![image-20200922092403279](../blogimg/elSearch/image-20200922092403279.png)
 
 全系的Elastic Stack技术栈包括：
 
@@ -505,7 +509,7 @@ POST /haoke/user/1001/_update
 在Elasticsearch中，删除文档数据，只需要发起DELETE请求即可，不用额外的参数
 
 ```bash
-DELETE 1 /haoke/user/1001
+DELETE /haoke/user/1001
 ```
 
 ![image-20200922160752862](../blogimg/elsearch/image-20200922160752862.png)

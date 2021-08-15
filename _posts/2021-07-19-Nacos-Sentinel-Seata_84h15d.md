@@ -2070,6 +2070,10 @@ feign:
 
 # 分布式事务问题由来Seata
 
+[优质讲解](https://www.bilibili.com/video/BV1np4y1C7Yf?p=286&spm_id_from=pageDriver)
+
+
+
 分布式前
 
 - 单机单库没这个问题
