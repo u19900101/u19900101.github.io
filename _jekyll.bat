@@ -1,2 +1,2 @@
-jekyll server
+bundle exec jekyll server --trace
 pause
